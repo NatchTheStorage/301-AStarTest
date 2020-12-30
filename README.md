@@ -16,7 +16,7 @@ Once an ideal path is found, the path will be displayed in a visual format and a
 To create a map, use the "-" and "|" characters to form the borders of a quadrilateral map, which the corners marked by "+".
 Place one "S" tile to mark the start point, and a "G" tile for the end point/goal.  "X" represents impassable tiles.
 The algorithm will not allow for direct diagonal movement or "overlapping" the borders.
-An example map is below
+An example map is below (please view in RAW format)
 
 +-------------------------------+
 |                               |
